@@ -24,9 +24,10 @@ export const DATA = {
     "Aspiring software developer pursuing a B.Tech in Information Technology. Focused on MERN stack development, data structures and algorithms, and open-source contributions to build strong software engineering skills.",
   avatarUrl: "/me.png",
   skills: [
+    { name: "JavaScript", icon: Icons.javascript },
     { name: "Node.js", icon: Nodejs },
-    { name: "Express.js", icon: Nodejs },
-    { name: "MySQL", icon: Postgresql },
+    { name: "Express.js", icon: Icons.express },
+    { name: "Python", icon: Python },
     { name: "PostgreSQL", icon: Postgresql },
     { name: "Typescript", icon: Typescript }, 
     { name: "React", icon: ReactLight },
@@ -34,7 +35,6 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    // Blog has been removed
   ],
   contact: {
     email: "satyamverma0907@gmail.com",
@@ -50,6 +50,24 @@ export const DATA = {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/satyam-verma-01863a2a3/",
         icon: Icons.linkedin,
+        navbar: true,
+      },
+      LeetCode: {
+        name: "LeetCode",
+        url: "https://leetcode.com/u/10_SatyamVerma09/",
+        icon: Icons.leetcode,
+        navbar: true,
+      },
+      CodeChef: {
+        name: "CodeChef",
+        url: "https://www.codechef.com/users/satyam_verma09",
+        icon: Icons.codechef,
+        navbar: true,
+      },
+      Codeforces: {
+        name: "Codeforces",
+        url: "https://codeforces.com/profile/SuperMan777",
+        icon: Icons.codeforces,
         navbar: true,
       },
       X: {
@@ -80,7 +98,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Open Source Contributor",
-      logoUrl: "/gssoc.png", // You can add a GSSoC logo to your public folder and link it here (e.g., "/gssoc.png")
+      logoUrl: "/gssoc.png", 
       start: "May 2026",
       end: "Present",
       description:
@@ -101,16 +119,14 @@ export const DATA = {
     {
       title: "Netflix Clone",
       href: "https://github.com/SATYAMVERMA-09/Netflix-Clone",
-      dates: "2025", // Update with actual dates if preferred
+      dates: "2025", 
       active: true,
       description:
         "Developed a full-stack responsive web application replicating the core user interface and functionalities of Netflix.",
       technologies: [
-        "React",
-        "Node.js",
-        "Express",
-        "MongoDB",
+        "HTML",
         "CSS",
+        "JAVASCRIPT",
       ],
       links: [
         {
@@ -119,7 +135,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "netflix.png", // Add a screenshot to your public folder and link it here (e.g., "/netflix-clone.png")
+      image: "netflix.png", 
       video: "",
     }
   ],
