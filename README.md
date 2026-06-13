@@ -1,47 +1,27 @@
-<div align="center">
-<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
-</div>
+# Satyam Verma - Personal Portfolio
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+Welcome to the source code for my personal portfolio! I am a Pre Final year IT Undergrad at GL Bajaj Institute of Technology and Management, specializing in Full-Stack Web Development (MERN Stack) and Competitive Programming.
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+## 🌐 Live Demo
+Check out the live portfolio here: **[https://portfolio-satyamverma.vercel.app/](https://portfolio-satyamverma.vercel.app/)**
 
-# Features
+## 💻 Tech Stack & Skills
+* **Languages:** C++, JavaScript, TypeScript, Python
+* **Frontend:** React, Next.js, Tailwind CSS, HTML/CSS
+* **Backend:** Node.js, Express.js
+* **Databases:** MongoDB, MySQL, PostgreSQL
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+## 🏆 Competitive Programming
+I actively practice data structures and algorithms and regularly compete on the following platforms:
+* [LeetCode](https://leetcode.com/u/10_SatyamVerma09/)
+* [Codeforces](https://codeforces.com/profile/SuperMan777)
+* [CodeChef](https://www.codechef.com/users/satyam_verma09)
 
-# Getting Started Locally
+## 🏗️ Highlighted Projects
+* **Netflix Clone:** A full-stack responsive web application replicating the core user interface and functionalities of Netflix using the MERN stack.
 
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
-
-2. Move to the cloned directory
-
-   ```bash
-   cd portfolio
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   pnpm install
-   ```
-
-4. Start the local Server:
-
-   ```bash
-   pnpm dev
-   ```
-
-5. Open the [Config file](./src/data/resume.tsx) and make changes
-
-# License
-
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
+## 📫 Get In Touch
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/satyam-verma-01863a2a3/)
+* **GitHub:** [@SATYAMVERMA-09](https://github.com/SATYAMVERMA-09)
+* **X / Twitter:** [@SatyamVerm59058](https://x.com/SatyamVerm59058)
+* **Email:** [satyamverma0907@gmail.com](mailto:satyamverma0907@gmail.com)
